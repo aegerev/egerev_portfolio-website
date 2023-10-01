@@ -18,7 +18,6 @@ No installation was required during the making of this website.
 
 ## Usage
 
-
 This website contains my portfolio, in which I share facts about me, my work, my resume, and the best way(s) to contact me.
 
 When you click on the links "About Me", "Work", and "Contact Me", they go directly to the given sections. The link to "Resume" goes to a link for my resume. (And, just as a safety measure, a link to the resume is included in the "Resume" section of the website.)
