@@ -1,5 +1,5 @@
 # Alex Egerev's Portfolio Webpage
-![image]https://github.com/upennbootcamp23/egerev_portfolio-website/deployed-image.PNG
+![image]https://github.com/aegerev/egerev_portfolio-website/deployed-image.PNG
 ## Description
 
 This website contains my portfolio, in which I share facts about me, my work, my resume, and the best way(s) to contact me.
@@ -46,6 +46,6 @@ Please refer to the LICENSE in the repo.
 
 
 ## Deployment
-Link to website: https://upennbootcamp23.github.io/egerev_portfolio-website/
-Link to repository for the website: https://github.com/upennbootcamp23/egerev_portfolio-website
+Link to website: https://aegerev.github.io/egerev_portfolio-website/
+Link to repository for the website: https://github.com/aegerev/egerev_portfolio-website
 
