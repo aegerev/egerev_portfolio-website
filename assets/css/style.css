@@ -1,12 +1,4 @@
-/* DESKTOP VERSION */
-
-
-
-
-
-
-
-
+/* DESKTOP EDITION */
 
 
 *{
@@ -15,7 +7,7 @@
 
 
     --color:  white;
-    --border-left: yellow;
+    --border-left: #215E21;
     --margin-left-big: 0px;
     --margin-left-work: 0px;
     --margin-left-sm: 10px;
@@ -23,7 +15,7 @@
     --margin-left-box: 10%;
     --margin-left-box-work: 11.5%;
     --color-media-query: black;
-    --border-left-media-query: orange;
+    --border-left-media-query: #007FFF;
 }
 
 
@@ -58,14 +50,14 @@ a:hover, a:active
     align-items:left;
     flex-direction: column;
     width: var(--margin-left-box);
-    color: yellow;
+    color: #32CD32;
 }
 #left-box-work {
     display:left;
     align-items:left;
     flex-direction: column;
     width: var(--margin-left-box-work);
-    color: yellow;
+    color: #32CD32;
 }
    
    
@@ -77,7 +69,7 @@ a:hover, a:active
     display: flex;
     flex-direction: row;
     font-size:medium;
-    background-color:yellow;
+    background-color:#70DBDB;
     color:var(--color);
     justify-content: space-between;
     margin-right: 10%;
@@ -288,7 +280,7 @@ a:hover, a:active
         display: flex;
         flex-direction: column;
         font-size:medium;
-        background-color:orange;
+        background-color:#70DB93;
         color:var(--color);
         justify-content: space-between;
         margin-right: 6%;      
